@@ -1,3 +1,5 @@
+github.com/Sajmani/dotgo v0.0.0-20171104173936-cd10902fbf4c h1:K8CnTYqk+l3JCVSDdZSR8ApQQn8tLL+o3+sziA3i0LI=
+github.com/Sajmani/dotgo v0.0.0-20171104173936-cd10902fbf4c/go.mod h1:0Kkg9pDA8eFKGsSgcf93dCIK9Bl73GTV6p6NpMpoLp0=
 golang.org/x/text v0.0.0-20170915032832-14c0d48ead0c h1:qgOY6WgZOaTkIIMiVjBQcw93ERBE4m30iBm00nkL0i8=
 golang.org/x/text v0.0.0-20170915032832-14c0d48ead0c/go.mod h1:NqM8EUOU14njkJ3fqMW+pc6Ldnwhi/IjpwHt7yyuwOQ=
 golang.org/x/text v0.3.7 h1:olpwvP2KacW1ZWvsR7uQhoyTYvKAupfQrRGBFM352Gk=
